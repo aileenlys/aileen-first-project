@@ -1,0 +1,4 @@
+RENCANA PROJECT
+
+- Website e-commerce dengan CI 3 (Mengulang project pwl lalu)
+- Mini project
